@@ -10,3 +10,4 @@ const getLanguages = async (req, res) => {
 export const methods = {
     getLanguages
 };
+languages
