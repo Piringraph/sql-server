@@ -1,5 +1,5 @@
 # sql-server
-A node.js server connected to a MySQL database
+
 This project is an API meant to apply CRUD functionalities to a MySQL database.
 
 To work with it, you must first create a database and add a .env file in the root folder of the project where you specify the following environment variables:
